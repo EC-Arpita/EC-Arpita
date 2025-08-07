@@ -1,13 +1,7 @@
+
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/analytics.png" alt="Data Analyst Logo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=500&lines=Hi%2C+I'm+Arpita+Thakur;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
 </p>
-
-# 👋 Hi there, I'm Arpita Thakur
-
-🎓 A passionate **Data Analyst**  
-📚 Final-year BCA student @ University of Allahabad  
-🔧 Tools I use: Python | SQL (MySQL, PostgreSQL) | Excel | Power BI  
-📊 I love solving data problems and building dashboards!
 
 ---
 
