@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/analytics.png" alt="Data Analyst Logo" />
+</p>
+
 # 👋 Hi there, I'm Arpita Thakur
 
 🎓 A passionate **Data Analyst**  
