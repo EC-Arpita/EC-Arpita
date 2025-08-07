@@ -1,7 +1,9 @@
+# 👋 Hi, I'm Arpita Thakur
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=500&lines=Hi%2C+I'm+Arpita+Thakur;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
-</p>
+🎓 Final-year **BCA student** at *University of Allahabad*  
+📊 Aspiring **Data Analyst** who loves finding insights in data  
+🛠️ Tools I use: **Python**, **SQL (MySQL & PostgreSQL)**, **Excel**, **Power BI**  
+📈 Always learning and building projects to improve my skills
 
 ---
 
