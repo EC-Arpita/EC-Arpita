@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arpita Thakur
 
-🎓 Final-year **BCA student** at *University of Allahabad*  
+🎓 First-year **MCA student** at *KIET Ghaziabad*  
 📊 Aspiring **Data Science** who loves finding insights in data  
 🛠️ Tools I use: **Python**, **SQL and Machine Learning**, **AI**, **Deep Learning** , **Visualization Tools**
 📈 Always learning and building projects to improve my skills
